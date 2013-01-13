@@ -3,7 +3,7 @@ This is the repository to build the sourdoughdiary blog.
 Installing the requirements
 ===========================
 
-Check out a copy of this repository. Make sure the name of the remote is origin (which is the default):
+Check out a copy of this repository. Make sure the name of the remote is origin (which is the default)::
 
     git clone git@github.com:tomster/sourdoughdiary
     cd sourdoughdiary
