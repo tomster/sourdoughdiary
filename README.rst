@@ -17,7 +17,7 @@ Create a virtual environment and install the dependencies like so::
 Create an entry
 ===============
 
-Simply add files inside ``content/``, using the restructured text format.
+Simply add files inside ``content/``, using the restructured text format. See the `docs for further details <http://docs.getpelican.com/en/3.1.1/getting_started.html#writing-articles-using-pelican>`_.
 
 
 Publishing
